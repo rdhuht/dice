@@ -1,5 +1,5 @@
 {
-    "name": "Dice",
+    "name": "coin",
     "description": "",
     "dependencies": {
         "core": "*",
